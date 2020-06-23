@@ -1,0 +1,88 @@
+// alert('Test');
+ 
+
+// class Teste {
+//      metodo(){
+
+//      }
+
+//      outro(){
+
+//      }
+//  }
+
+// class List {
+//     constructor() {
+//         this.data = [];
+//     }
+//     add(data) {
+//         this.data.push(data);
+//         console.log(this.data);
+//     }
+// }
+
+
+// class TodoList extends List{
+//     constructor() {
+//          this.todos = [];
+//     }
+//     static addTodo() {
+//         this.todos.push('New To Do');
+//         console.log(this.todos);
+//     }
+// }
+
+
+
+
+
+        // super();
+    // }
+    // constructor() {
+    //     this.todos = [];
+    // }
+    // addTodo() {
+    //     this.todos.push('New To Do');
+    //     console.log(this.todos);
+    // }
+// }
+
+// const MyList = new TodoList();
+
+// document.getElementById('newtodo').onclick = function() {
+//     MyList.add('New To Do');
+// }
+
+
+
+
+
+
+
+// EXECUTE INDEPENDENT ALL CODES
+// class math {
+//     static summ(a,b) {
+//         return a + b
+//     }
+// }
+
+
+// console.log(math.summ(1,2))
+// ----------------------------
+
+// // TEMPLATE LITERALS
+// const name = 'May'
+// const age = 28
+
+// console.log(`My name is ${name} and I hace ${age} y/o`)
+
+
+// //  OBJECT SHORT SYNTAX
+// const user = {
+//     name,
+//     age
+// }
+
+
+
+// -----------------------
