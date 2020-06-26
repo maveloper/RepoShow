@@ -1,0 +1,21 @@
+const arr = [1, 2, 4,]
+
+// MORE PARAMETERS
+const newArr = arr.map((item, index) => {
+    return item + index
+})
+console.log(newArr)
+
+
+// 1 PARAMETER
+const newArr = arr.map(item => item * 2)
+console.log(newArr)
+
+
+const test = () => [1, 2, 3]
+const test = () => 'test'
+const test = () => 3
+const test = () => ({name: 'May'})
+
+
+console.log(test())
